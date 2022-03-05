@@ -13,6 +13,9 @@ This project contains w3School.sql having the follwing tables
     shippers
     suppliers
     
+### Graphical View of Schemas with their relations
+![Alt text](https://raw.githubusercontent.com/majorsabbir/sql_practice/master/w3schools.svg)
+
 To up and running fork this project first from https://github.com/majorsabbir/sql_practice.git if not did already
 ```
 git clone https://github.com/majorsabbir/sql_practice.git
